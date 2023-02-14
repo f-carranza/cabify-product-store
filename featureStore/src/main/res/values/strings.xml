@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="discount_title_take_x_get_y">Buy %1$d and get %2$d free</string>
+    <string name="discount_title_discount_by_amount">Buy %1$d and get %2$d\%% discount</string>
+    <string name="generic_total">Total</string>
+    <string name="store_title">Cabify Product Store</string>
+    <string name="store_cta_go_to_basket">Go to basket</string>
+    <string name="basket_title">Basket</string>
+</resources>
