@@ -27,4 +27,6 @@ Jetpack Datastore for persistence.
 Coil for async remote image loading.
 Retrofit and Okhttp for service and network requests.
 
-
+# Technical debt
+Refactoring gradle files for dependencies version management.
+Improve UI views
